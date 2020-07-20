@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 16 03:42:21 2020
 
-@author: APR
+@author: Armando Palacio Romeu
 """
 import time
 import sys
