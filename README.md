@@ -1,2 +1,2 @@
-# Armando
-Mis Proyectos de Python
+## Armando
+Mi proyecto de generación de señales de audio en python
